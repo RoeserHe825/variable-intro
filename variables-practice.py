@@ -44,7 +44,7 @@ print(book_price)
 first_name = 'Henry'
 print(first_name)
 
-city = 'Grand Rapids'
+city = 'Traverse City'
 print(city)
 
 my_age = 17
