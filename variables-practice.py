@@ -18,10 +18,10 @@
 # Define a variable called favorite_singer and assign it the string value that is your favorite singer (using a pair of double quotes)
 # Define a variable called greeting and assign it a string value you'd use to greet someone (Good morning, Good afternoon, etc.)
 # Use the print function to print the value of one of three variables you created in Part 1
-school = 'Career Tech'
+school = 'TC West High'
 favorite_singer = "Lil Tecca"
 greeting = Good Morning
-print = (favorite_singer)
+(print) = favorite_singer
 # Part 2 / Working with Numbers (Numeric Data)
 # Define a variable called my_age and assign it your age as an integer
 # Define a variable called conversion_factor and assign it the value of 2.54 (a float/floating-point number)
